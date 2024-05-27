@@ -12,3 +12,4 @@ Plans for Next Week:
 - Complete remainder of the 6 hour Machine Learning YouTube video.
 - Complete remainder of the Python course on Kaggle.
 - Begin working on the Machine Learning course on Kaggle after the Python course.
+- Continue summarizing 2 articles from each of the four areas every day.
