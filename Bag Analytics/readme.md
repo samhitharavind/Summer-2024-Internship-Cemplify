@@ -1,4 +1,5 @@
 # Objective
-&nbsp; The objective of this project is to generate a data vault, or a place where all of the bag tracking analytics can be found so that they can be pulled from this vault on an as needed basis and in a timely manner. The reason for this project is because currently, most of the time spent by the analytics team is being wasted pulling specific data that they need for bag anayltics from different sources, whereas having a data vault with all of the necessary data would save a significant amount of time and also allow for better analytics.
+&nbsp; The objective of this project is to allow bag tracking analytics to be found in a timely manner so that it can be used to inform management decisions. Currently, most of the time spent by the analytics team is on collecting bag analytics from different sources, thus leaving less time for the team to conduct true analysis based on collected data.
 
+# Project Goals
 &nbsp; Some of the main goals within this project are to have all of the bag analytics data stored in a common data vault from which it can be accessed at any given time, reduce the time spent by analysts searching for data, and maximize the amount of time spent by analysts actually observing and learning information from the data.
