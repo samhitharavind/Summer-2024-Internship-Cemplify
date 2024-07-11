@@ -4,5 +4,8 @@
 # Project Goals
 &nbsp; Some of the main goals within this project are to minimize the time and effort put in by the analytics team to gather bag journey data, provide deeper anaylsis of data beyond just reports, and establish a process of data storage and collection which prioritizes company needs.
 
-# Project Metrics
-&nbsp; Some metrics which can indicate that the project is progressing smoothly are ensuring that everyone within the project is performing their assigned role to the best of their ability, measuring the efficiency of acquiring necessary data through new methods, and ensuring analysts are able to recreate current reports using new methods of recording bag data.
+# Project Success Criteria
+&nbsp; Some examples of criteria which can indicate that the project is progressing smoothly are:
+- Ensuring that bag tracking data is available for analysis and performance, as well as business monitoring reports.
+- Ensuring the analysis team has data to carry out intra day analysis of bag performance and irregularities.
+- Ensuring there is a minimal impact to the current state of airport operations and IT support.
