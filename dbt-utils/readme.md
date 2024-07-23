@@ -1,5 +1,5 @@
 # What is it?
-&nbsp; dbt-utils is a collection of SQl scripts and macros which are used to assist the data validation and testing process within dbt (data build tool). In order to use dbt, you must first add it to your package file, and then install the function.
+&nbsp; dbt-utils is a collection of SQL scripts and macros which are used to assist the data validation and testing process within dbt (data build tool). In order to use dbt, you must first add it to your package file, and then install the function.
 
 # Common Macros
 &nbsp; Two examples of useful macros within the dbt-utils package are:
